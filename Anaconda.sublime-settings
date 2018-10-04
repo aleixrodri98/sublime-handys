@@ -1,0 +1,15 @@
+{
+	"anaconda_linter_underlines": false,
+	"pep8_max_line_length": 120,
+    "pep8_ignore":
+	[
+	    "E309",
+	    "H304",
+	    "D101",
+	    "D102",
+	    "D104",
+	    "D105",
+	    "D204"
+	],
+	"anaconda_linter_mark_style": "none"
+}
